@@ -8,12 +8,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
+  <a href="https://github.com/risvanbotv1/Unlimited-Filter-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
+  <a href="https://github.com/risvanbotv1/Unlimited-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
@@ -85,11 +85,11 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/risvanbotv1/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
+git clone https://github.com/risvanbotv1/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
